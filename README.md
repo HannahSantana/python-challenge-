@@ -1,6 +1,13 @@
 # python-challenge
 
-For this challenge, we were asked to complete one of two challenges. I selected PyParagraph and PyPoll. Instructions follow below. 
+
+Python Challenge
+
+For this challenge, we were asked to complete one of two challenges. Instructions for the specific projects are below. 
+
+Getting Started:
+
+import pandas as pd 
 
 PyPoll: 
 
